@@ -108,7 +108,7 @@ function App() {
               <span className="text-lg font-medium text-white/90">My Tasks</span>
             </div>
           </div>
-          <div className="backdrop-blur-sm border border-white/20 bg-black/10 text-white/80 shadow-xl w-100 rounded-xl p-6 ml-10">
+          <div className="backdrop-blur-sm border border-white/20 bg-black/10 text-white/80 shadow-xl w-70 rounded-xl p-6 ml-10">
             <div>
               <Timer />
             </div>
