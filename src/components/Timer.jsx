@@ -2,7 +2,7 @@ import React from 'react';
 // import { useCountdownTimer } from 'use-countdown-timer';
 import { useEffect, useState } from "react";
 
-const TIME_IN_MILISECONDS_TO_COUNTDOWN = 1000*60*5;
+const TIME_IN_MILISECONDS_TO_COUNTDOWN = 1000*60;
 const INTERVAL_IN_MILISECONDS = 1000;
 const radius = 80;
 const circumference = 2 * Math.PI * radius;
